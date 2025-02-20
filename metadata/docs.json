@@ -1,0 +1,27 @@
+{
+ "signatures": [
+  {
+   "keyid": "ba65808977548012b65ab8229f7b939e2339703cec3686ef816f2480274e7f9b",
+   "sig": "52e2b6f3d134188be12b77802d6041aab6cf08a070972f7a24542eb1bffbda8ff35079abdb3ab7d1ccb7084eb52238d20a0cb571227ed054add482c04b12b42f73e3e4a7eb47bf4558fc33adb6c0dd886fb44bcfd12524072b385cd88e11699ed2d7a78aa7ba766c4ff71479d64a805a4ff51d5e18e3981d71a68963c94c9e6fa8547e9182e7dbc67ace5f200cb8573987fa262a5459ceef92ddacb8fcc1fccdcbb1c251416a75a87ea2f59e4454e8035af4db2e93699e148908de9bbb7f982d9456e884eba8717b45d5fd6dc07aaac025b7ecd25bd16f10dff6108f97962a0bdde0a1edc560c90e5b387b8a0709a3da7877586c88c78a64634ee538e97cef74"
+  }
+ ],
+ "signed": {
+  "_type": "targets",
+  "delegations": {
+   "keys": {},
+   "roles": []
+  },
+  "expires": "2025-05-21T22:49:07Z",
+  "spec_version": "1.0.31",
+  "targets": {
+   "cityofsanmateo/law-docs": {
+    "hashes": {
+     "sha256": "806088932642173fcb92bca811040a169a1a710d087af10a366551150f65f844",
+     "sha512": "80f2081f1917652277e5eb29475166876e8db820be981ade41773e12d33a660d33be2e92e0255d981932f268ca90eb3dae3690cc9298cbb04a310000a1145460"
+    },
+    "length": 116
+   }
+  },
+  "version": 86
+ }
+}
